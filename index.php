@@ -11,7 +11,7 @@ $tstart = $mtime;
 </head>
 <body>
     <h2>Perkalian Matriks Ordo 3x3</h2>
-    <form method="POST" action="rumus.php">
+    <form method="POST" action="rumus.html">
         Inputkan nilai matriks pertama:<BR>
         <INPUT TYPE = "text" NAME = "A11">
         <INPUT TYPE = "text" NAME = "A12">
